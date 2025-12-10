@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.log
+*.csv
+*.npy
+
+# Ignore model files bigger than 100MB (GitHub limit)
+# models/*.pkl
